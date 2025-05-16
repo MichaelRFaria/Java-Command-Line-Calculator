@@ -69,7 +69,7 @@ public class Main {
                     valid = true;
                     break;
                 case '!':
-                    System.out.println("Thank you for using the Command Line Calculator!\nGoodbye!");
+                    System.out.println("\nThank you for using the Command Line Calculator!\nGoodbye!");
                     scanner.close();
                     System.exit(0);
                 default:
